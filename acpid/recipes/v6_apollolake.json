@@ -15,7 +15,7 @@
     },
     {
       "name": "pwrbtn_pkg.tgz",
-      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn_pkg.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/pkg/pwrbtn_pkg.tgz",
       "sha256": "fa98b2140a0878f524179f3e453732f10684ec99e8ebc13a73e909fe8d759143",
       "packed": false
     }
