@@ -1,0 +1,31 @@
+{
+   "mod_version": "v1",
+   "files": [
+    {
+      "name": "install-acpid.sh",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/install-acpid.sh",
+      "sha256": "43ba36746a4bb5c584dd59da2de3bba12027a6efb9389bc4a7c4c3d433d6f571",
+      "packed": false
+    },
+    {
+      "name": "pwrbtn-module-v7-apollolake.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7-apollolake.tgz",
+      "sha256": "1ce6478a8d3f418590e91491b1e3d7d8aced70b6e85f32adb9e6884fc4fb1092",
+      "packed": true
+    }
+    {
+      "name": "pwrbtn_pkg.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn_pkg.tgz",
+      "sha256": "fa98b2140a0878f524179f3e453732f10684ec99e8ebc13a73e909fe8d759143",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "evdev.ko":""
+  },
+
+  "scripts": {
+    "on_os_load": "install-acpid.sh"
+  }
+}

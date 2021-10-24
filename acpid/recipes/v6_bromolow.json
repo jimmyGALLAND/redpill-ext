@@ -1,0 +1,32 @@
+{
+   "mod_version": "v1",
+   "files": [
+    {
+      "name": "install-acpid.sh",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/install-acpid.sh",
+      "sha256": "43ba36746a4bb5c584dd59da2de3bba12027a6efb9389bc4a7c4c3d433d6f571",
+      "packed": false
+    },
+    {
+      "name": "pwrbtn-module-v6-bromolow.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v6-bromolow.tgz",
+      "sha256": "b01ab074eb3628dffec5481bdd61bbd5d836f4519f4a0b32f234202ede50b577",
+      "packed": true
+    }
+    {
+      "name": "pwrbtn_pkg.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn_pkg.tgz",
+      "sha256": "fa98b2140a0878f524179f3e453732f10684ec99e8ebc13a73e909fe8d759143",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "button.ko": "",
+    "evdev.ko":""
+  },
+
+  "scripts": {
+    "on_os_load": "install-acpid.sh"
+  }
+}
