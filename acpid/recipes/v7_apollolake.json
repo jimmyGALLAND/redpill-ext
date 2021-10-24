@@ -4,7 +4,7 @@
     {
       "name": "install-acpi.sh",
       "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/install-acpi.sh",
-      "sha256": "43ba36746a4bb5c584dd59da2de3bba12027a6efb9389bc4a7c4c3d433d6f571",
+      "sha256": "cbba97bae5dff81c6183d25f054df2137c7b7c15c47e76373826960a5fba714e",
       "packed": false
     },
     {
@@ -16,7 +16,7 @@
     {
       "name": "pwrbtn_pkg.tgz",
       "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/pkg/pwrbtn_pkg.tgz",
-      "sha256": "fa98b2140a0878f524179f3e453732f10684ec99e8ebc13a73e909fe8d759143",
+      "sha256": "8ad6f755508c45b164af434ac2044b1688f6a6eb5b844c1087240d0e941f421d",
       "packed": false
     }
   ],
