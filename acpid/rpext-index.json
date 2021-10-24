@@ -1,17 +1,17 @@
 {
   "id": "jg.acpid",
-  "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/acpid/rpext-index.json",
+  "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/rpext-index.json",
   "info": {
     "name": "ACPI Daemon",
     "description": "ACPI Daemon that handles power button events",
     "author_url": "https://sourceforge.net/projects/acpid2/",
-    "packer_url": "https://github.com/jimmyGALLAND/redpill-ext/raw/acpid",
-    "help_url": "https://github.com/jimmyGALLAND/redpill-ext/raw/acpid"
+    "packer_url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid",
+    "help_url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid"
   },
   "releases": {
-    "ds3615xs_25556": "https://github.com/jimmyGALLAND/redpill-ext/raw/acpid/recipes/v6_bromolow.json",
-    "ds3615xs_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/acpid/recipes/v7_bromolow.json",
-    "ds918p_25556": "https://github.com/jimmyGALLAND/redpill-ext/raw/acpid/recipes/v6_appololake.json",
-    "ds918p_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/acpid/recipes/v7_appololake.json"
+    "ds3615xs_25556": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/recipes/v6_bromolow.json",
+    "ds3615xs_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/recipes/v7_bromolow.json",
+    "ds918p_25556": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/recipes/v6_appololake.json",
+    "ds918p_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/recipes/v7_appololake.json"
   }
 }
