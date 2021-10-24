@@ -2,8 +2,8 @@
    "mod_version": "v1",
    "files": [
     {
-      "name": "install-acpid.sh",
-      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/install-acpid.sh",
+      "name": "install-acpi.sh",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/install-acpi.sh",
       "sha256": "43ba36746a4bb5c584dd59da2de3bba12027a6efb9389bc4a7c4c3d433d6f571",
       "packed": false
     },
@@ -27,6 +27,6 @@
   },
 
   "scripts": {
-    "on_os_load": "install-acpid.sh"
+    "on_os_load": "install-acpi.sh"
   }
 }
