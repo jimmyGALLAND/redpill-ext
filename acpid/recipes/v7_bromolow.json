@@ -12,7 +12,7 @@
       "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7-bromolow.tgz",
       "sha256": "500a92ad3c2504828e2f8913363cb34e23bae6914c5693511a6b5e0f1705fe6c",
       "packed": true
-    }
+    },
     {
       "name": "pwrbtn_pkg.tgz",
       "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn_pkg.tgz",

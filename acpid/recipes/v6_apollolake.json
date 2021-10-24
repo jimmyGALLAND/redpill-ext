@@ -12,7 +12,7 @@
       "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v6-apollolake.tgz",
       "sha256": "db6bcba16b064fdf4d6e5f24424d8c8faf6b6df0a18b04c601276400bfe86212",
       "packed": true
-    }
+    },
     {
       "name": "pwrbtn_pkg.tgz",
       "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn_pkg.tgz",
