@@ -1,5 +1,5 @@
 {
-  "id": "thethorgroup.virtio",
+  "id": "jg.virtio",
   "url": "https://raw.githubusercontent.com/jimmyGALLAND/redpill-ext/master/rpext-index.json",
   "info": {
     "name": "VirtIO",
@@ -17,9 +17,9 @@
     "ds918p_41890": "https://github.com/RedPill-TTG/redpill-virtio/raw/master/recipes/ds918p_41890.json",
     "ds918p_42218": "https://github.com/RedPill-TTG/redpill-virtio/raw/master/recipes/ds918p_41890.json"
   }
-},
+}
 {
-  "id": "pocopico.e1000e",
+  "id": "jg.e1000e",
   "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/rpext-index.json",
   "info": {
     "name": "e1000e",
@@ -37,9 +37,9 @@
     "ds918p_41890": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/releases/ds918p_41890.json",
     "ds918p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/releases/ds918p_42218.json"
   }
-},
+}
 {
-  "id": "pocopico.e1000",
+  "id": "jg.e1000",
   "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/rpext-index.json",
   "info": {
     "name": "e1000",
