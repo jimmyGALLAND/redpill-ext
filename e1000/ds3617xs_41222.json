@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "e1000-4.4.108-broadwell.tgz",
+      "url": "https://raw.githubusercontent.com/jimmyGALLAND/redpill-ext/master/e1000/releases/e1000-4.4.108-broadwell.tgz",
+      "sha256": "2e8e21cd059be6f6ee52f583a470be1d439981a51cd6d94e8b57cbb584a36bec",
+      "packed": true
+    },
+    {
+      "name": "check-e1000.sh",
+      "url": "https://raw.githubusercontent.com/jimmyGALLAND/redpill-ext/master/e1000/src/check-e1000.sh",
+      "sha256": "2f0b8f1369089a813bd3b7f1aaa7a82f946d887b4b3379de22519621cb8ebd1e",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "e1000.ko": ""
+  },
+
+    "scripts": {
+    "on_boot": "check-e1000.sh"
+  }
+
+}
