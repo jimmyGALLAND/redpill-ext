@@ -11,7 +11,7 @@
     {
       "name": "virtio-4.4-108.tgz",
       "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/virtio/releases/virtio-4.4.108.tgz",
-      "sha256": "",
+      "sha256": "f9ad5f1bd0e4a3b74f375dd5360e7c369e4768aa141481a2e0e008512178e5ac",
       "packed": true
     }
   ],
