@@ -20,7 +20,6 @@
     "virtio.ko": "",
     "virtio_ring.ko": "",
     "virtio_mmio.ko": "",
-    "virtio_pci.ko": "",
     "virtio_net.ko": "",
     "virtio_balloon.ko": ""
   },
