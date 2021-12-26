@@ -5,7 +5,7 @@
     {
       "name": "e1000-4.4.108-broadwell.tgz",
       "url": "https://raw.githubusercontent.com/jimmyGALLAND/redpill-ext/master/e1000/releases/e1000-4.4.108-broadwell.tgz",
-      "sha256": "303f3f6e6bb3aa728658b93bd3bdf5ffb55b2bdcd47f9ff8ac3eadc7f6519c69",
+      "sha256": "d5dac70ce47b2ff8145b32a3c9987efc79633e3f93fb4a5c98c53a1b43cabd19",
       "packed": true
     },
     {
