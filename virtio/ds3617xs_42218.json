@@ -11,7 +11,7 @@
     {
       "name": "virtio-4.4-108.tgz",
       "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/virtio/releases/virtio-4.4.108-broadwell.tgz",
-      "sha256": "7993d8ae00f8ee5d9e88fce36d7f0feca3a8983e00f009f2de049b4a14e4bdb0",
+      "sha256": "363ac26021be1a2e89f872ccb915d48a5bbccf1c3d19ca3fdb46debd26833d98",
       "packed": true
     }
   ],
@@ -23,7 +23,6 @@
     "virtio_mmio.ko": "",
     "virtio_pci.ko": "",
     "virtio_net.ko": "",
-    "virtio_balloon.ko": ""
   },
 
   "scripts": {
