@@ -8,9 +8,9 @@
       "packed": false
     },
     {
-      "name": "pwrbtn-module-v7-broadwell.tgz",
-      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7-broadwell.tgz",
-      "sha256": "19db6cac6afa0ea00ead47da64fdb54176d60e5ec25547f5249b9e19cbd74278",
+      "name": "pwrbtn-module-v6-broadwell.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v6-broadwell.tgz",
+      "sha256": "b01ab074eb3628dffec5481bdd61bbd5d836f4519f4a0b32f234202ede50b577",
       "packed": true
     },
     {
@@ -22,8 +22,8 @@
   ],
 
   "kmods": {
-      "button.ko":"",
-      "evdev.ko":""
+    "button.ko": "",
+    "evdev.ko":""
   },
 
   "scripts": {
