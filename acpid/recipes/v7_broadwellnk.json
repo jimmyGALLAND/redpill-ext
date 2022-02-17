@@ -1,0 +1,32 @@
+{
+   "mod_version": "v1",
+   "files": [
+    {
+      "name": "install-acpi.sh",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/install-acpi.sh",
+      "sha256": "c3429c9fc5d82eee8d39fd4d7f0fe19c3a4263a2c3c2ab9dcf483b0e24786fc7",
+      "packed": false
+    },
+    {
+      "name": "pwrbtn-module-v7-broadwellnk.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7-broadwellnk.tgz",
+      "sha256": "6f783efc9b51c2008b28ce660e99b910970a5d3495a30bfb75a53b929ab153f7",
+      "packed": true
+    },
+    {
+      "name": "pwrbtn_pkg.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/pkg/pwrbtn_pkg.tgz",
+      "sha256": "8ad6f755508c45b164af434ac2044b1688f6a6eb5b844c1087240d0e941f421d",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "evdev.ko":"",
+    "button.ko":""
+  },
+
+  "scripts": {
+    "on_os_load": "install-acpi.sh"
+  }
+}
