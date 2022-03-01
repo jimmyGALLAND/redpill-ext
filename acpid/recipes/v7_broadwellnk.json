@@ -8,9 +8,9 @@
       "packed": false
     },
     {
-      "name": "pwrbtn-module-v7-broadwell.tgz",
-      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7-broadwell.tgz",
-      "sha256": "c27c7bc626e51fe3a355b3680d4e4d04b77785dc702f445c15d9cfafdfce6f79",
+      "name": "pwrbtn-module-v7-broadwellnk.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7-broadwellnk.tgz",
+      "sha256": "6f783efc9b51c2008b28ce660e99b910970a5d3495a30bfb75a53b929ab153f7",
       "packed": true
     },
     {
