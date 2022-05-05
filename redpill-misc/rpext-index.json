@@ -5,7 +5,7 @@
     "name": "Misc shell",
     "description": "Misc shell",
     "author_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-misc",
-    "packer_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-misc",
+    "packer_url": "https://github.com/jimmyGALLAND/redpill-ext",
     "help_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-misc"
   },
   "releases": {
