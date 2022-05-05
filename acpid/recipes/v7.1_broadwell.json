@@ -15,7 +15,7 @@
     },
     {
       "name": "pwrbtn-module-v7.1-broadwell.tgz",
-      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7-broadwell.tgz",
+      "url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7.1-broadwell.tgz",
       "sha256": "57125a86555b18844d49b29f699f5add02518b47e13f3959791f9e01dead39ec",
       "packed": true
     }
