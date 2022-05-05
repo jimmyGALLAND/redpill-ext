@@ -15,9 +15,6 @@
     }
   ],
 
-  "kmods": {
-  },
-
   "scripts": {
     "on_os_load": "install-acpi.sh"
   }
