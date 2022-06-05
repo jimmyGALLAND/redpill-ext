@@ -1,11 +1,11 @@
 {
-  "id": "pocopico.mptsas",
+  "id": "pocopico.jg.mptsas",
   "url": "https://raw.githubusercontent.com/jimmyGALLAND/rp-ext/master/mptsas/rpext-index.json",
   "info": {
     "name": "mptsas",
     "description": "Adds Fusion MPT SAS Host driver Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/mptsas",
+    "author_url": "https://github.com/jimmyGALAND",
+    "packer_url": "https://github.com/jimmyGALLAND/rp-ext/tree/main/mptsas",
     "help_url": "<todo>"
   },
   "releases": {
