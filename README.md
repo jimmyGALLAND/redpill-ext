@@ -4,5 +4,5 @@ This github is no longer maintained, please choose the one corresponding to your
 If you use Fabio's Arpl
 https://github.com/fbelavenuto/arpl
 
-If you use pocopico'stinycore
+If you use pocopico's tinycore
 https://github.com/pocopico/tinycore-redpill
